@@ -18,4 +18,4 @@ git clone git clone https://github.com/wooyxxng-Jang/scanPDFrenamer.git
 cd scanPDFrenamer
 python -m venv .venv && .venv\Scripts\activate
 pip install -r requirements.txt
-python main.py
+python scanPDFrenamer.py
