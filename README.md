@@ -1,4 +1,4 @@
-# PDF Renamer (v1.0)
+# SCAN PDF Renamer (v1.0)
 
 스캔된 PDF 1페이지의 문서번호를 OCR로 추출하여, 엑셀(master_data.xlsx)의 제목과 매칭해 **파일명을 자동 변경**하는 Windows용 매크로 프로그램
 
