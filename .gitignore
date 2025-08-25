@@ -1,0 +1,33 @@
+# ---- Python 캐시/환경 ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+.venv/
+venv/
+.env
+.env.*
+
+# ---- IDE / OS ----
+.vscode/
+.idea/
+*.log
+*.bak
+Thumbs.db
+Desktop.ini
+
+# ---- 빌드 산출물 (exe, dist 등) ----
+build/
+dist/
+*.spec
+*.exe
+
+# ---- 프로그램 관련 ----
+# 로그/설정 파일
+automation.log
+config.json
+
+# ---- 외부 바이너리 ----
+tesseract/
+poppler/
